@@ -2,7 +2,7 @@ package utp.misiontic2022.c2.p53.reto4;
 
 import javax.swing.JFrame;
 import utp.misiontic2022.c2.p53.reto4.vista.VistaPrincipal;
-import utp.misiontic2022.c2.p53.reto4.vista.VistaRequerimientos;
+//import utp.misiontic2022.c2.p53.reto4.vista.VistaRequerimientos;
 
 /**
  * Esta clase solo se debe usar para hacer pruebas locales, no se debe subir en
